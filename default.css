@@ -1,0 +1,21 @@
+--- styles/default.css	2013-03-04 15:29:10.000000000 -0500
++++ styles/default.css	2013-03-04 17:21:24.000000000 -0500
+@@ -198,3 +198,18 @@
+ 	background: #A00F0F;
+ }
+ /********** END OF DISCOVERY STATUS *********/
++
++/* align */
++.floatleft { float: left; }
++.floatright { float: right; }
++
++.top { vertical-align: top; }
++.middle { vertical-align: middle; }
++.bottom { vertical-align: bottom; }
++
++.center { text-align: center; }
++.left { text-align: left; }
++.right { text-align: right; }
++
++/* width */
++.maxwidth { width: 100%; }
